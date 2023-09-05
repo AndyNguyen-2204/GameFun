@@ -15,7 +15,7 @@
     ·
     <a href="https://github.com/AndyNguyen-2204/GameFun/issues">Report Bug</a>
     ·
-    <a href="https://github.com/lebinh190998/porfolio/issues">Request Feature</a>
+    <a href="https://github.com/AndyNguyen-2204/GameFun/issues">Request Feature</a>
   </p>
 </div>
 
@@ -83,7 +83,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/lebinh190998/porfolio.git
+   git clone https://github.com/AndyNguyen-2204/GameFun.git
    ```
 2. Install NPM packages
    ```sh
