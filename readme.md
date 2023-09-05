@@ -4,7 +4,7 @@
 <br />
 <div align="center">
     <img src="static/favicon/android-icon-192x192.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Le Binh's Porfolio</h3>
+  <h3 align="center">Game Fun</h3>
 
   <p align="center">
     A interactive personal porfolio
