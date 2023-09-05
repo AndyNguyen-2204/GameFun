@@ -126,19 +126,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Le Binh - [@lebinh1909](https://www.linkedin.com/in/binhle19/) - lebinh190998@gmail.com
-
-Project Link: [https://github.com/lebinh190998/porfolio](https://github.com/lebinh190998/porfolio)
-
-Production: [https://lebinhporfolio.netlify.app/](https://lebinhporfolio.netlify.app/)
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 <!-- ## Acknowledgments
 
