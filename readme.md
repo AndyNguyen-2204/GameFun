@@ -13,7 +13,7 @@
     <br />
     <a href="https://lebinhporfolio.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/lebinh190998/porfolio/issues">Report Bug</a>
+    <a href="https://github.com/AndyNguyen-2204/GameFun/issues">Report Bug</a>
     ·
     <a href="https://github.com/lebinh190998/porfolio/issues">Request Feature</a>
   </p>
