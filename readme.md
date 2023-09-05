@@ -6,7 +6,7 @@
   <h3 align="center">Game Fun</h3>
 
   <p align="center">
-    A interactive personal porfolio
+   This is a game fun,relax
     <!-- <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br /> -->
